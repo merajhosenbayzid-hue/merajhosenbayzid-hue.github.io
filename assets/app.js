@@ -140,7 +140,6 @@ function render(){
         </div>
         <div class="badges">
           ${p.type==="gov" ? '<span class="badge gov">সরকারি</span>' : '<span class="badge pvt">বেসরকারি</span>'}
-          <span class="badge free">ফ্রি</span>
         </div>
       </div>
       <p class="desc">${p.desc}</p>
