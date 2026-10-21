@@ -88,3 +88,8 @@ footer{background:var(--navy);color:#e2e8f0;text-align:center;padding:30px 0;mar
 .country-item{display:flex;align-items:center;gap:11px;width:100%;padding:9px 10px;border:none;background:none;font-size:15.5px;font-family:inherit;cursor:pointer;border-radius:8px;text-align:left}
 .country-item:hover{background:#f0fdf4}
 .country-item.active{background:#ecfdf5;font-weight:700;color:var(--emerald2)}
+
+.sponsor-wrap{display:flex;align-items:center;justify-content:center;gap:14px;flex-wrap:wrap;max-width:1120px;margin:26px auto 4px;padding:0 20px}
+.sponsor-label{font-size:12.5px;letter-spacing:.14em;color:var(--muted);border:1px solid var(--line);padding:4px 10px;border-radius:999px}
+.sponsor-btn{display:inline-block;padding:13px 30px;border-radius:999px;background:linear-gradient(90deg,#f59e0b,#f97316);color:#fff;font-weight:700;font-size:16.5px;text-decoration:none;box-shadow:0 8px 22px rgba(249,115,22,.35)}
+.sponsor-btn:hover{filter:brightness(1.06)}
