@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://merajhosenbayzid-hue.github.io/sitemap.xml
+Sitemap: https://eurojobportal.onrender.com/sitemap.xml
